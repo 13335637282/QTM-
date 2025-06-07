@@ -1,0 +1,551 @@
+# 由 QTM 转换工具生成
+# 转换时间: 2025-06-06 14:23:01
+# 原始文件: English.qtm
+
+title = "100道英语选择 测试"
+test_time = 15  # 考试时间(分钟)
+
+[[main]]  # 问题 1
+type = "SingleChoice"
+question = """1.— ______ is your birthday? — It's in June."""
+options = [
+    "A.What",
+    "B.When",
+    "C.Where",
+    "D.How",
+]
+answer = 2  # 选择: B.When
+
+[[main]]  # 问题 2
+type = "SingleChoice"
+question = """2.I go to school ______ 7:30 every morning."""
+options = [
+    "A.in",
+    "B.on",
+    "C.at",
+    "D.for",
+]
+answer = 3  # 选择: C.at
+
+[[main]]  # 问题 3
+type = "SingleChoice"
+question = """3.Look! The cat ______ under the chair."""
+options = [
+    "A.sleep",
+    "B.sleeps",
+    "C.sleeping",
+    "D.is sleeping",
+]
+answer = 4  # 选择: D.is sleeping
+
+[[main]]  # 问题 4
+type = "SingleChoice"
+question = """4.— How much are the socks? — ______ 20 yuan."""
+options = [
+    "A.It's",
+    "B.They're",
+    "C.There are",
+    "D.This is",
+]
+answer = 2  # 选择: B.They're
+
+[[main]]  # 问题 5
+type = "SingleChoice"
+question = """5.My mother is a ______. She works in a hospital."""
+options = [
+    "A.teacher",
+    "B.doctor",
+    "C.farmer",
+    "D.driver",
+]
+answer = 2  # 选择: B.doctor
+
+[[main]]  # 问题 6
+type = "SingleChoice"
+question = """6.— What's your favourite subject? — I like ______."""
+options = [
+    "A.apples",
+    "B.maths",
+    "C.swimming",
+    "D.blue",
+]
+answer = 2  # 选择: B.maths
+
+[[main]]  # 问题 7
+type = "SingleChoice"
+question = """7.It's cold. Please ______ the window."""
+options = [
+    "A.open",
+    "B.close",
+    "C.clean",
+    "D.wash",
+]
+answer = 2  # 选择: B.close
+
+[[main]]  # 问题 8
+type = "SingleChoice"
+question = """8.— ______ pencils do you have? — Five."""
+options = [
+    "A.How many",
+    "B.How much",
+    "C.What colour",
+    "D.How old",
+]
+answer = 1  # 选择: A.How many
+
+[[main]]  # 问题 9
+type = "SingleChoice"
+question = """9.We ______ English class on Monday."""
+options = [
+    "A.has",
+    "B.have",
+    "C.having",
+    "D.to have",
+]
+answer = 2  # 选择: B.have
+
+[[main]]  # 问题 10
+type = "SingleChoice"
+question = """10.— Where is the library? — It's ______ the first floor."""
+options = [
+    "A.in",
+    "B.on",
+    "C.at",
+    "D.under",
+]
+answer = 2  # 选择: B.on
+
+[[main]]  # 问题 11
+type = "SingleChoice"
+question = """11.— What's he doing? — He ______ a kite."""
+options = [
+    "A.flies",
+    "B.flying",
+    "C.is flying",
+    "D.fly",
+]
+answer = 3  # 选择: C.is flying
+
+[[main]]  # 问题 12
+type = "SingleChoice"
+question = """12.— Can I have some water? — ______."""
+options = [
+    "A.Yes, I can",
+    "B.No, I don't",
+    "C.Here you are",
+    "D.Thank you",
+]
+answer = 3  # 选择: C.Here you are
+
+[[main]]  # 问题 13
+type = "SingleChoice"
+question = """13.— Is this your ruler? — No, it's ______."""
+options = [
+    "A.my",
+    "B.mine",
+    "C.your",
+    "D.yours",
+]
+answer = 4  # 选择: D.yours
+
+[[main]]  # 问题 14
+type = "SingleChoice"
+question = """14.— What time is it? — It's ______."""
+options = [
+    "A.Monday",
+    "B.sunny",
+    "C.9 o'clock",
+    "D.blue",
+]
+answer = 3  # 选择: C.9 o'clock
+
+[[main]]  # 问题 15
+type = "SingleChoice"
+question = """15.— ______ shoes are these? — They're Amy's."""
+options = [
+    "A.Who",
+    "B.Whose",
+    "C.Where",
+    "D.What",
+]
+answer = 2  # 选择: B.Whose
+
+[[main]]  # 问题 16
+type = "SingleChoice"
+question = """16.— How do you go to school? — I go ______ bus."""
+options = [
+    "A.by",
+    "B.on",
+    "C.in",
+    "D.with",
+]
+answer = 1  # 选择: A.by
+
+[[main]]  # 问题 17
+type = "SingleChoice"
+question = """17.— What colour is the banana? — It's ______."""
+options = [
+    "A.red",
+    "B.yellow",
+    "C.green",
+    "D.black",
+]
+answer = 2  # 选择: B.yellow
+
+[[main]]  # 问题 18
+type = "SingleChoice"
+question = """18.— Are these tomatoes? — Yes, ______."""
+options = [
+    "A.they are",
+    "B.these are",
+    "C.they're",
+    "D.it is",
+]
+answer = 1  # 选择: A.they are
+
+[[main]]  # 问题 19
+type = "SingleChoice"
+question = """19.— ______ your brother like ice cream? — Yes, he does."""
+options = [
+    "A.Do",
+    "B.Does",
+    "C.Is",
+    "D.Are",
+]
+answer = 2  # 选择: B.Does
+
+[[main]]  # 问题 20
+type = "SingleChoice"
+question = """20.— What animal has a long trunk? — It's an ______."""
+options = [
+    "A.elephant",
+    "B.lion",
+    "C.monkey",
+    "D.kangaroo",
+]
+answer = 1  # 选择: A.elephant
+
+[[main]]  # 问题 21
+type = "SingleChoice"
+question = """21.— What do you eat for breakfast? — I eat ______."""
+options = [
+    "A.noodles",
+    "B.water",
+    "C.book",
+    "D.run",
+]
+answer = 1  # 选择: A.noodles
+
+[[main]]  # 问题 22
+type = "SingleChoice"
+question = """22.— ______ is Christmas? — It's in December."""
+options = [
+    "A.What",
+    "B.When",
+    "C.Where",
+    "D.How",
+]
+answer = 2  # 选择: B.When
+
+[[main]]  # 问题 23
+type = "SingleChoice"
+question = """23.— Can a bird swim? — No, it ______."""
+options = [
+    "A.can",
+    "B.can't",
+    "C.does",
+    "D.doesn't",
+]
+answer = 2  # 选择: B.can't
+
+[[main]]  # 问题 24
+type = "SingleChoice"
+question = """24.— What's your favourite fruit? — I like ______."""
+options = [
+    "A.carrots",
+    "B.apples",
+    "C.rice",
+    "D.milk",
+]
+answer = 2  # 选择: B.apples
+
+[[main]]  # 问题 25
+type = "SingleChoice"
+question = """25.— Where do fish live? — They live in the ______."""
+options = [
+    "A.forest",
+    "B.river",
+    "C.sky",
+    "D.garden",
+]
+answer = 2  # 选择: B.river
+
+[[main]]  # 问题 26
+type = "SingleChoice"
+question = """26.— What do you wear in winter? — I wear a ______."""
+options = [
+    "A.T-shirt",
+    "B.sweater",
+    "C.shorts",
+    "D.sandals",
+]
+answer = 2  # 选择: B.sweater
+
+[[main]]  # 问题 27
+type = "SingleChoice"
+question = """27.— How do you spell "rabbit"? — ______."""
+options = [
+    "A.R-A-B-B-I-T",
+    "B.R-A-B-I-T",
+    "C.R-A-B-B-E-T",
+    "D.R-A-B-I-T-E",
+]
+answer = 1  # 选择: A.R-A-B-B-I-T
+
+[[main]]  # 问题 28
+type = "SingleChoice"
+question = """28.— What's in your schoolbag? — There ______ a book and two pencils."""
+options = [
+    "A.is",
+    "B.are",
+    "C.am",
+    "D.be",
+]
+answer = 1  # 选择: A.is
+
+[[main]]  # 问题 29
+type = "SingleChoice"
+question = """29.— ______ is your sister? — She's 8 years old."""
+options = [
+    "A.What",
+    "B.When",
+    "C.How old",
+    "D.How many",
+]
+answer = 3  # 选择: C.How old
+
+[[main]]  # 问题 30
+type = "SingleChoice"
+question = """30.— What do you do on weekends? — I ______ TV."""
+options = [
+    "A.watch",
+    "B.watches",
+    "C.watching",
+    "D.to watch",
+]
+answer = 1  # 选择: A.watch
+
+[[main]]  # 问题 31
+type = "SingleChoice"
+question = """31.— Is there a park near your home? — Yes, ______."""
+options = [
+    "A.there is",
+    "B.there are",
+    "C.it is",
+    "D.they are",
+]
+answer = 1  # 选择: A.there is
+
+[[main]]  # 问题 32
+type = "SingleChoice"
+question = """32.— What's for lunch? — We have ______."""
+options = [
+    "A.sleep",
+    "B.rice",
+    "C.swim",
+    "D.run",
+]
+answer = 2  # 选择: B.rice
+
+[[main]]  # 问题 33
+type = "SingleChoice"
+question = """33.— ______ are you? — I'm 1.4 metres tall."""
+options = [
+    "A.How tall",
+    "B.How old",
+    "C.How many",
+    "D.How much",
+]
+answer = 1  # 选择: A.How tall
+
+[[main]]  # 问题 34
+type = "SingleChoice"
+question = """34.— What's the third month of the year? — It's ______."""
+options = [
+    "A.January",
+    "B.February",
+    "C.March",
+    "D.April",
+]
+answer = 3  # 选择: C.March
+
+[[main]]  # 问题 35
+type = "SingleChoice"
+question = """35.— Let's go to the zoo! — ______."""
+options = [
+    "A.Thank you",
+    "B.Goodbye",
+    "C.Great!",
+    "D.Here you are",
+]
+answer = 3  # 选择: C.Great!
+
+[[main]]  # 问题 36
+type = "SingleChoice"
+question = """36.— What's your father's job? — He's a ______."""
+options = [
+    "A.banana",
+    "B.policeman",
+    "C.singing",
+    "D.swimming",
+]
+answer = 2  # 选择: B.policeman
+
+[[main]]  # 问题 37
+type = "SingleChoice"
+question = """37.— How do you feel? — I'm ______."""
+options = [
+    "A.happy",
+    "B.table",
+    "C.tree",
+    "D.book",
+]
+answer = 1  # 选择: A.happy
+
+[[main]]  # 问题 38
+type = "SingleChoice"
+question = """38.— Where are my glasses? — They're ______ your head!"""
+options = [
+    "A.in",
+    "B.on",
+    "C.under",
+    "D.behind",
+]
+answer = 2  # 选择: B.on
+
+[[main]]  # 问题 39
+type = "SingleChoice"
+question = """39.— ______ you like ice cream? — Yes, I do."""
+options = [
+    "A.Do",
+    "B.Does",
+    "C.Are",
+    "D.Is",
+]
+answer = 1  # 选择: A.Do
+
+[[main]]  # 问题 40
+type = "PlainText"
+question = """困难<bi>"""
+
+
+[[main]]  # 问题 41
+type = "SingleChoice"
+question = """40.— ______ your brother and sister watching TV now? — Yes, they are."""
+options = [
+    "A.Is",
+    "B.Are",
+    "C.Do",
+    "D.Does",
+]
+answer = 2  # 选择: B.Are
+
+[[main]]  # 问题 42
+type = "SingleChoice"
+question = """41.There isn't ______ milk in the fridge. Let's buy some."""
+options = [
+    "A.some",
+    "B.any",
+    "C.many",
+    "D.a",
+]
+answer = 2  # 选择: B.any
+
+[[main]]  # 问题 43
+type = "SingleChoice"
+question = """42.— Must I finish my homework now? — No, you ______. You can do it later."""
+options = [
+    "A.mustn't",
+    "B.can't",
+    "C.don't",
+    "D.needn't",
+]
+answer = 4  # 选择: D.needn't
+
+[[main]]  # 问题 44
+type = "SingleChoice"
+question = """43.The book ______ me 50 yuan yesterday."""
+options = [
+    "A.cost",
+    "B.costs",
+    "C.costing",
+    "D.is costing",
+]
+answer = 1  # 选择: A.cost
+
+[[main]]  # 问题 45
+type = "SingleChoice"
+question = """44.— ______ is the tallest in your class? — Tom is."""
+options = [
+    "A.What",
+    "B.Who",
+    "C.Whose",
+    "D.Where",
+]
+answer = 2  # 选择: B.Who
+
+[[main]]  # 问题 46
+type = "SingleChoice"
+question = """45.I have two pens. One is red, and ______ is blue."""
+options = [
+    "A.other",
+    "B.the other",
+    "C.others",
+    "D.another",
+]
+answer = 2  # 选择: B.the other
+
+[[main]]  # 问题 47
+type = "SingleChoice"
+question = """46.— ______ you at school yesterday? — No, I wasn't."""
+options = [
+    "A.Are",
+    "B.Were",
+    "C.Do",
+    "D.Did",
+]
+answer = 2  # 选择: B.Were
+
+[[main]]  # 问题 48
+type = "SingleChoice"
+question = """47.Look! The boys ______ basketball on the playground."""
+options = [
+    "A.plays",
+    "B.are playing",
+    "C.is playing",
+    "D.play",
+]
+answer = 2  # 选择: B.are playing
+
+[[main]]  # 问题 49
+type = "SingleChoice"
+question = """48.— How ______ is your new dress? — It's 200 yuan."""
+options = [
+    "A.many",
+    "B.much",
+    "C.old",
+    "D.long",
+]
+answer = 2  # 选择: B.much
+
+[[main]]  # 问题 50
+type = "SingleChoice"
+question = """49.— Would you like tea ______ juice? — Juice, please."""
+options = [
+    "A.and",
+    "B.but",
+    "C.or",
+    "D.so",
+]
+answer = 3  # 选择: C.or
+

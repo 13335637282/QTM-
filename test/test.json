@@ -1,0 +1,29 @@
+{
+    "property": {
+        "title": "数学测试",
+        "test_time": 30
+    },
+    "main": [
+        {
+            "type": "plain_text",
+            "question": "请仔细阅读题目要求"
+        },
+        {
+            "type": "TrueOrFalse",
+            "question": "1+1等于3吗?",
+            "answer": 2
+        },
+        {
+            "type": "SingleChoice",
+            "question": "2+2等于多少?",
+            "options": ["3", "4", "5", "6"],
+            "answer": 2
+        },
+        {
+            "type": "MultipleChoice",
+            "question": "哪些是偶数?",
+            "options": ["2", "3", "4", "5"],
+            "answer": 5
+        }
+    ]
+}
