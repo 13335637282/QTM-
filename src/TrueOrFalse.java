@@ -133,5 +133,4 @@ public class TrueOrFalse extends ObjPlane {
     public boolean check() {
         return C[0] == answers;
     }
-    //sk-36d595c3e68048c59da7053df16dc5e1
 }
